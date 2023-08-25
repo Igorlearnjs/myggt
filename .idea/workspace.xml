@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74aeb54a-a82d-4fa9-8364-0d2fc060ccde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/evergit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soc-app/src/google.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soc-app/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soc-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/soc-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soc-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/soc-app/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/soc-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/soc-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soc-app/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/soc-app/src/logo.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +55,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/soc-app/src" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/soc-app/src" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -77,7 +79,7 @@
       <workItem from="1692828571154" duration="4968000" />
       <workItem from="1692836737781" duration="40000" />
       <workItem from="1692836787590" duration="715000" />
-      <workItem from="1692965814745" duration="2550000" />
+      <workItem from="1692965814745" duration="6309000" />
     </task>
     <servers />
   </component>

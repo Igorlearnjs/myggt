@@ -1,18 +1,34 @@
-import logo from './logo.svg';
 import './App.css';
+import openAllMaps from './main.js';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          OiMedia!
-        </p>
-        <a>Go</a>
-      </header>
+const App = () => {
+    return (
+        <div>
+            <Header/>
+            <Technologies/>
+            <openAllMaps/>
+        </div>
+    )
+}
+
+const Technologies = () => {
+    return (
+    <div>
+        <ul>
+            <li>HTML</li>
+            <li>Css</li>
+            <li>JavaScript</li>
+        </ul>
     </div>
-  );
+    )
+}
+
+const Header =() => {
+    return (<div>
+        <a href="">Home</a>
+        <a href="">News Feed</a>
+        <a href="">Messages</a>
+    </div>)
 }
 
 export default App;
