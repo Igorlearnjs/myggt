@@ -1,6 +1,6 @@
-const Content = () => {
+const Profile = () => {
     return (
             <div className='content'>Main content</div>
     );
 }
-export default Content;
+export default Profile;
