@@ -10,8 +10,8 @@ const App = () => {
                 <a href="#">Home</a>
             </header>
             <nav className='navigation'>
-                <div>Profile</div>
-                <div>Messages</div>
+                <div><a href="#">Profile</a></div>
+                <div><a href="#">Messages</a></div>
             </nav>
             <div className='content'>Main content</div>
         </div>

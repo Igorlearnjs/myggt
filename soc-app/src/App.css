@@ -25,6 +25,15 @@
   background-color: #277FC2A3;
 }
 
+.navigation a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navigation a:hover {
+  color: #ccc;
+}
+
 .content {
   grid-area: content;
   background-color: #F8FFF0FF;
