@@ -1,19 +1,14 @@
 import './App.css';
-import Technologies from './Technologies.js';
-import Header from './Header.js';
+import Header from './components/Header.jsx';
+import Navigation from "./components/Navigation";
+import Content from "./components/Content";
 
 const App = () => {
     return (
         <div className='app-wrapper'>
-            <header className='header'>
-                <img src="https://images.squarespace-cdn.com/content/v1/5be46505aa49a16a3b129522/1541695322945-8PXLVIS6XDKMKHLJOEIZ/Logo-NEW-WHITE.png?format=1500w" alt="Logo" className="logo" />
-                <a href="#">Home</a>
-            </header>
-            <nav className='navigation'>
-                <div><a href="#">Profile</a></div>
-                <div><a href="#">Messages</a></div>
-            </nav>
-            <div className='content'>Main content</div>
+            <Header/>
+            <Navigation/>
+            <Content/>
         </div>
     );
 }
